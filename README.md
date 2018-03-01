@@ -11,7 +11,6 @@ If you have any questions about Zuckerbot please mention `@Dev` on Discord or [t
 - [mysql](https://www.npmjs.com/package/mysql)
 - [request](https://www.npmjs.com/package/request)
 
-
 ### Contributors
 We want to thank everyone who's contributed to the bot in some way, so here is a list:
 - LamboCreeper <sub>(FPT Developer Captain)</sub>
@@ -21,5 +20,4 @@ We want to thank everyone who's contributed to the bot in some way, so here is a
 
 
 
-
-<sub>**Disclaimer:** Zuckerbot does store your Discord ID as well as your latest known username and discriminator. This for our experience and warning systems.</sub>
+<sub>**Disclaimer:** Zuckerbot stores your Discord ID as well as your latest known username and discriminator. This for our experience and warning systems.</sub>

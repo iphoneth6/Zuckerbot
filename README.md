@@ -1,7 +1,7 @@
 ![Zuckerbot Logo](http://lambocreeper.uk/media/zuck_header.png)
 
 ### About
-Zuckerbot is the official [Discord](https://discordapp.com) bot for the [front page tech guild](http://gofpt.link/discord). Written in node.js/JavaScript, we welcome contributions from the community: if you think you've got a good idea and want to add it - make a pull request.
+Zuckerbot is the official [Discord](https://discordapp.com) bot for the [front page tech guild](http://discord.gg/fpt). Written in node.js/JavaScript, we welcome contributions from the community: if you think you've got a good idea and want to add it - make a pull request.
 
 If you have any questions about Zuckerbot please mention `@Dev` on Discord or [tweet LamboCreeper](https://twitter.com/LamboCreeper).
 

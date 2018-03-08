@@ -20,4 +20,4 @@ We want to thank everyone who's contributed to the bot in some way, so here is a
 
 
 
-<sub>**Disclaimer:** Zuckerbot stores your Discord ID as well as your latest known username, some messages and discriminator. This for our experience and warning systems.</sub>
+<sub>**Disclaimer:** Zuckerbot stores your Discord ID as well as your latest known username, some messages and discriminator. This is for our experience and warning systems.</sub>

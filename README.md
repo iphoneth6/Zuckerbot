@@ -18,7 +18,7 @@ If you are thinking of contributing, which we hope you are, please make sure you
 ### Contributors
 We want to thank everyone who's contributed to the bot in some way, so here is a list:
 - LamboCreeper <sub>(FPT Developer Captain)</sub>
-- moloco <sub>(FPT Developer)</sub>
+- moloco <sub>(FPT Developer Captain)</sub>
 
 
 
